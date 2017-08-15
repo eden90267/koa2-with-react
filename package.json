@@ -1,7 +1,7 @@
 {
-  "name": "demo",
+  "name": "koa2-with-react",
   "version": "0.0.1",
-  "description": "a koa2 demo",
+  "description": "a koa2-with-react demo",
   "main": "index.js",
   "scripts": {
     "init_sql": "node ./init/index.js",
@@ -31,9 +31,7 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "validator": "^8.0.0",
-    "whatwg-fetch": "^2.0.3"
-  },
-  "devDependencies": {
+    "whatwg-fetch": "^2.0.3",
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",
     "babel-plugin-import": "^1.2.1",
