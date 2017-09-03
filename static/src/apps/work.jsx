@@ -1,9 +1,9 @@
-import React from 'react';
+import React, {Component} from 'react';
 import {Layout, Menu, Icon} from 'antd';
 
 const {Header, Sider, Content} = Layout;
 
-class Work extends React.Component {
+class Work extends Component {
 
   state = {
     collapsed: false,
